@@ -8,7 +8,7 @@
       "url": "https://github.com/heroku/heroku-buildpack-nodejs"
     },
     {
-      "url": "https://github.com/jincod/dotnet-buildpack"
+      "url": "http://github.com/heroku/dotnet-buildpack.git"
     }
   ]
 }
